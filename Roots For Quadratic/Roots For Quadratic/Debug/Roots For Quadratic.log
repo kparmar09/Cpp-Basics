@@ -1,0 +1,4 @@
+﻿  Roots For Quadratic.cpp
+C:\Users\12133\Desktop\C++ Programs\Roots For Quadratic\Roots For Quadratic\Roots For Quadratic.cpp(53,43): warning C4552: '+': result of expression not used
+C:\Users\12133\Desktop\C++ Programs\Roots For Quadratic\Roots For Quadratic\Roots For Quadratic.cpp(64,80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Roots For Quadratic.vcxproj -> C:\Users\12133\Desktop\C++ Programs\Roots For Quadratic\Debug\Roots For Quadratic.exe

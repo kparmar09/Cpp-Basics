@@ -1,0 +1,4 @@
+﻿  Practice - Polymorphism with Base class Shape.cpp
+C:\Users\12133\Desktop\C++ Programs\Practice - Polymorphism with Base class Shape\Practice - Polymorphism with Base class Shape\Practice - Polymorphism with Base class Shape.cpp(34,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\12133\Desktop\C++ Programs\Practice - Polymorphism with Base class Shape\Practice - Polymorphism with Base class Shape\Practice - Polymorphism with Base class Shape.cpp(37,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Practice - Polymorphism with Base class Shape.vcxproj -> C:\Users\12133\Desktop\C++ Programs\Practice - Polymorphism with Base class Shape\Debug\Practice - Polymorphism with Base class Shape.exe

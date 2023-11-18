@@ -1,0 +1,13 @@
+﻿  Use of default Argument and function template.cpp
+C:\Users\12133\Desktop\C++ Programs\Use of default Argument and function template\Use of default Argument and function template\Use of default Argument and function template.cpp(15,18): error C2668: 'max': ambiguous call to overloaded function
+C:\Users\12133\Desktop\C++ Programs\Use of default Argument and function template\Use of default Argument and function template\Use of default Argument and function template.cpp(9,3): message : could be 'T max<int>(T,T,T)'
+          with
+          [
+              T=int
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(41,82): message : or       'const _Ty &std::max<int>(const _Ty &,const _Ty &) noexcept(<expr>)'
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\12133\Desktop\C++ Programs\Use of default Argument and function template\Use of default Argument and function template\Use of default Argument and function template.cpp(15,18): message : while trying to match the argument list '(int, int)'

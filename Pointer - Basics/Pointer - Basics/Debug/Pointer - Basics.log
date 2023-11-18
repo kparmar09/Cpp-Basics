@@ -1,0 +1,4 @@
+﻿  Pointer - Basics.cpp
+C:\Users\12133\Desktop\C++ Programs\Pointer - Basics\Pointer - Basics\Pointer - Basics.cpp(21,8): error C2131: expression did not evaluate to a constant
+C:\Users\12133\Desktop\C++ Programs\Pointer - Basics\Pointer - Basics\Pointer - Basics.cpp(21,8): message : failure was caused by a read of a variable outside its lifetime
+C:\Users\12133\Desktop\C++ Programs\Pointer - Basics\Pointer - Basics\Pointer - Basics.cpp(21,8): message : see usage of 'size'

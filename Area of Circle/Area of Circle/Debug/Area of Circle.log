@@ -1,0 +1,3 @@
+﻿  Area of Circle.cpp
+C:\Users\12133\Desktop\C++ Programs\Area of Circle\Area of Circle\Area of Circle.cpp(15,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Area of Circle.vcxproj -> C:\Users\12133\Desktop\C++ Programs\Area of Circle\Debug\Area of Circle.exe
